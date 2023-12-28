@@ -24,10 +24,10 @@ class Navbar extends Component {
           {menuItems.map((item, ind) => {
             return (
               <li key={ind}>
-                <a className={item.cName} href={item.url}>
+                <Link className={item.cName} to={item.url}>
                   <i className={item.icon}></i>
                   {item.title}
-                </a>
+                </Link>
               </li>
             );
           })}
