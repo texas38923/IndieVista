@@ -1,5 +1,5 @@
 import Hero from '../components/Hero';
-import SignUpImg from '../assets/4.jpg';
+import SignUpImg from '../assets/sup.jpg';
 import Navbar from '../components/navbar';
 import Footer from '../components/footer';
 import SignUpForm from '../components/SignUpForm';

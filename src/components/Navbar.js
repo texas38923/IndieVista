@@ -13,7 +13,7 @@ class Navbar extends Component {
     return (
       <nav className='NavbarItems'>
         <a href='/' className='navbar-logo'>
-          Trippyy
+          {'<<IndieVista>>'}
         </a>
 
         <div className='menu-icons' onClick={this.handleClick}>

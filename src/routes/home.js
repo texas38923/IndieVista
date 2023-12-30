@@ -1,8 +1,7 @@
 import Hero from '../components/Hero';
 import Navbar from './../components/navbar';
-import HomeImg from '../assets/12.jpg';
+import HomeImg from '../assets/homepage.jpg';
 import Destination from '../components/Destination';
-import Trip from '../components/trip';
 import Footer from '../components/footer';
 
 function Home() {
@@ -12,14 +11,13 @@ function Home() {
       <Hero
         cName='hero'
         heroImg={HomeImg}
-        title='Your Journey, Your Story!'
-        text='Choose your favourite destination...'
+        title='<< IndieVista >>'
+        text='A gateway to the enchanting tapestry of Indian tourism...'
         btnText='Travel Plans'
         url='/service'
         btnClass='show'
       />
       <Destination />
-      <Trip />
       <Footer />
     </section>
   );

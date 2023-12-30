@@ -6,9 +6,9 @@ const Footer = () => {
       <div className='top'>
         <div>
           <a href='/' className='footer-logo'>
-            Trippyy
+            {'<< IndieVista >>'}
           </a>
-          <p>Choose your favourite destination.</p>
+          <p>A gateway to the enchanting tapestry of Indian tourism...</p>
         </div>
         <div>
           <a href='/'>
