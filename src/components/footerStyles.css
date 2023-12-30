@@ -4,6 +4,13 @@
   color: #fff;
 }
 
+.footer-logo {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.75rem;
+  font-weight: 750;
+}
+
 .top {
   display: flex;
   align-items: center;

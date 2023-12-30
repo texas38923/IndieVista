@@ -5,7 +5,9 @@ const Footer = () => {
     <div className='footer'>
       <div className='top'>
         <div>
-          <h1>Trippyy</h1>
+          <a href='/' className='footer-logo'>
+            Trippyy
+          </a>
           <p>Choose your favourite destination.</p>
         </div>
         <div>

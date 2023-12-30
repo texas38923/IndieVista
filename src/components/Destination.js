@@ -34,6 +34,18 @@ const Destination = () => {
         img1={Mountain3}
         img2={Mountain4}
       />
+      <DestinationData
+        className='first-des'
+        heading='Lorem Ipsum Dernere'
+        text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente
+            nostrum sunt provident ex qui quae. Aperiam minus recusandae,
+            voluptatem architecto ut voluptate voluptates expedita, quos tempore
+            a fugit sapiente deleniti repellat dolorum obcaecati! Doloremque nam
+            nobis id expedita? Et fugiat reprehenderit ad nemo officia ab,
+            dignissimos a sit corrupti aliquid!'
+        img1={Mountain3}
+        img2={Mountain4}
+      />
     </div>
   );
 };

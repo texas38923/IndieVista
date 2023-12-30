@@ -13,6 +13,41 @@ function Trip() {
         maiores rerum incidunt commodi iste, aperiam numquam omnis quas soluta
         sed blanditiis quis ea vel?
       </p>
+
+      <div className='tripcard'>
+        <TripData
+          image={Trip1}
+          heading='Trip in Indonesia'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+        <TripData
+          image={Trip2}
+          heading='Trip in Maldives'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+        <TripData
+          image={Trip3}
+          heading='Trip in Spain'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+      </div>
+      <div className='tripcard'>
+        <TripData
+          image={Trip1}
+          heading='Trip in Indonesia'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+        <TripData
+          image={Trip2}
+          heading='Trip in Maldives'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+        <TripData
+          image={Trip3}
+          heading='Trip in Spain'
+          text='Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam doloremque eos nihil ipsum sequi blanditiis minus, molestiae quaerat animi eligendi.'
+        />
+      </div>
       <div className='tripcard'>
         <TripData
           image={Trip1}

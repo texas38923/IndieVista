@@ -16,6 +16,8 @@
 }
 
 .navbar-logo {
+  text-decoration: none;
+  font-weight: 800;
   color: #222;
   font-size: 2rem;
   cursor: pointer;
