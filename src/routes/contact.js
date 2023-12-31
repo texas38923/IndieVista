@@ -1,5 +1,5 @@
 import Hero from '../components/Hero';
-import Navbar from './../components/Navbar';
+import Navbar from './../components/navbar';
 import ContactImg from '../assets/2.jpg';
 import Footer from '../components/footer';
 import ContactForm from '../components/ContactForm';
